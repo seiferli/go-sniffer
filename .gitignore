@@ -1,0 +1,10 @@
+bin/*
+/bin/*
+/cmd/go-sniffer
+/cmd/go-sniffer_*
+.idea
+.git
+.cover
+sync.ffs_db
+/vendor
+
